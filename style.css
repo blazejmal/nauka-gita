@@ -1,0 +1,31 @@
+
+body {
+  margin: 0;
+  font-size: 16px;
+  line-height: 1.7;
+  font-family: 'Inconsolata', monospace;
+  color: #2c2c54; }
+
+.container {
+  max-width: 1140px;
+  padding: 0 20px;
+  margin: 0 auto; }
+
+.first-verse {
+ text-align: left;
+}
+.chorus {
+ text-align: left;
+}
+.second-verse {
+ text-align: left;
+}
+.third-verse {
+ text-align: left;
+}
+.source h1 {
+ font-size: 15px;
+}
+.source-link {
+font-size: 10px;
+}
